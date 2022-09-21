@@ -1,0 +1,17 @@
+#bgDiv {
+  background-color: #17a2b8;
+}
+	.palel-primary
+	{
+		border-color: #bce8f1;
+	}
+	.panel-primary>.panel-heading
+	{
+		background:#bce8f1;
+		
+	}
+	.panel-primary>.panel-body
+	{
+		background-color: #EDEDED;
+	}
+
